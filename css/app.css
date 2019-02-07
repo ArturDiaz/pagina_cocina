@@ -1,0 +1,85 @@
+div{
+  border: 0px solid black;
+}
+
+body{
+  margin: 3px;
+  background-image: url(../imagenes/foto2.jpg);
+}
+
+.colr{
+  background-color: rgba(127, 208, 255, 0.9);
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.colr1{
+  background-color: rgba(0, 107, 182, 0.4);
+  padding: 15px;
+}
+
+.colr2{
+  background-color: rgba(204, 255, 144, 0.8);
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.linea{
+  border-bottom: 1px solid white;
+  color: white;
+}
+.slogan{
+  text-align: right;
+}
+
+img{
+    border-radius: 5px;
+}
+.navegador a{
+  margin: 0px;
+  margin-top: 3px;
+  border: 1px solid white;
+}
+
+h3{
+  margin: 0px;
+  font-size: 1em;
+  text-indent: 1cm;
+}
+
+.buscar input{
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.icono{
+  background-color: rgba(255, 220, 0, 1);
+  text-align: center;
+  height: 100%;
+  margin: 0px;
+}
+
+.favoritos{
+  text-align: center;
+}
+
+.favoritos div img{
+  width: 90%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.contenido{
+    padding-bottom: 10px;
+}
+
+.titul h1{
+  font-size: 2em;
+}
+
+.imagen1{
+  width: 100%;
+  text-align: center;
+  margin: 3px;
+}
